@@ -1,0 +1,6 @@
+name = "HarmonieRegistry"
+uuid = "f67dcf82-7dfc-470a-a6f8-cb7a63ff5e19"
+repo = "https://github.com/roelstappers/HarmonieRegistry"
+description = "Harmonie registry"
+
+[packages]
