@@ -1,0 +1,3 @@
+name = "Netatmo"
+uuid = "cfff0a2a-884f-11e9-3fa8-b162b0da1b00"
+repo = "https://github.com/roelstappers/Netatmo.jl"
