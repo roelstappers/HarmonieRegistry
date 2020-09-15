@@ -4,3 +4,4 @@ repo = "https://github.com/roelstappers/HarmonieRegistry"
 description = "Harmonie registry"
 
 [packages]
+8047f4c8-798f-41f9-bdd5-7e8534b999d6 = { name = "Domains", path = "D/Domains" }
