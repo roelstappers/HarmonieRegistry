@@ -5,5 +5,6 @@ description = "Harmonie registry"
 
 [packages]
 8047f4c8-798f-41f9-bdd5-7e8534b999d6 = { name = "Domains", path = "D/Domains" }
+81a1656b-589c-480a-be94-af58f6e50aa7 = { name = "titan", path = "T/titan" }
 cfff0a2a-884f-11e9-3fa8-b162b0da1b00 = { name = "Netatmo", path = "N/Netatmo" }
 ee668f94-0f4f-5c2b-817e-1bb10fec470c = { name = "titanlib_jll", path = "T/titanlib_jll" }
