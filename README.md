@@ -16,7 +16,7 @@ If you're using at least Julia 1.1, then you can add this registry with
 
 For earlier Julia versions, manually `git clone` this repository under `DEPOT_PATH/registries`. (Usually, `DEPOT_PATH = /home/username/.julia`)
 
-Then, we can use lab private packages (or unregistered public ones) as if they are registered ones.
+Then, we can use Harmonie private packages (or unregistered public ones) as if they are registered ones.
 
 # For package developers
 
@@ -85,7 +85,7 @@ You have two options:
 Check out a local copy of https://github.com/GunnarFarneback/LocalRegistry.jl.
 Then:
 
-- navigate to HarmonieRegistry, which for me is at `/home/roel/.julia/registries/HarmonieRegistry`
+- navigate to HarmonieRegistry, `$HOME/.julia/registries/HarmonieRegistry`
 - update to the latest `master` branch
 - check out a new branch, e.g., `git checkout -b teh/SomeNewPkg`
 - start Julia and enter the following:
