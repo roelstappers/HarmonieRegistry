@@ -9,3 +9,4 @@ description = "Harmonie registry"
 cfff0a2a-884f-11e9-3fa8-b162b0da1b00 = { name = "Netatmo", path = "N/Netatmo" }
 d08afa64-7c0d-432c-9813-aa1b762c88a2 = { name = "Harmonie", path = "H/Harmonie" }
 ee668f94-0f4f-5c2b-817e-1bb10fec470c = { name = "titanlib_jll", path = "T/titanlib_jll" }
+fbe08674-9bec-468f-b573-070b1062a62f = { name = "VarBCFiles", path = "V/VarBCFiles" }
