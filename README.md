@@ -9,12 +9,12 @@ This registry allows you to use packages from Harmonie in Julia 1.x.
 If you're using at least Julia 1.1, then you can add this registry with
 
 ```
-]registry add git@github.com:roelstappers/HarmonieRegistry.git
+]registry add https://github.com/roelstappers/HarmonieRegistry.git
 ```
 
 (The `]` enters Pkg mode when you type it at the REPL prompt, see https://docs.julialang.org/en/latest/stdlib/Pkg/.)
 
-For earlier Julia versions, manually `git clone` this repository under `DEPOT_PATH/registries`. (Usually, `DEPOT_PATH = /home/username/.julia`)
+For earlier Julia versions, manually `git clone` this repository under `$JULIA_DEPOT_PATH/registries`. (Usually, `JULIA_DEPOT_PATH = /home/username/.julia`)
 
 Then, we can use Harmonie private packages (or unregistered public ones) as if they are registered ones.
 
