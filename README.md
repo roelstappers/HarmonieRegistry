@@ -1,3 +1,6 @@
+
+## This repository has been archived. Use https://github.com/Hirlam/HarmonieRegistry 
+
 # HarmonieRegistry
 
 This README.md is a copy of [HolyLabRegistry](https://github.com/HolyLab/HolyLabRegistry) with small adaptations. 
